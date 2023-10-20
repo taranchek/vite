@@ -1,0 +1,193 @@
+* {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+header {
+  background-image: url(assets/header.png);
+  width: 1920px;
+}
+
+body {
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.menu {
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 26px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  align-items: center;
+
+}
+
+.slogan {
+  background-image: url(assets/slogan.png);
+  height: 818px;
+
+}
+
+.text1 {
+  color: #FFF;
+
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text2 {
+  color: #FFF;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.slog {
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+  margin-left: 6%;
+  padding-top: 8%;
+}
+
+.ish {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  margin-top: 4%;
+}
+
+.dezt {
+  margin-left: 2%;
+}
+
+.text3 {
+  color: #0C0C0C;
+
+  font-family: Montserrat;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text4 {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+  /* 140% */
+}
+
+.text5 {
+  color: #000;
+
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.pro {
+  width: 80%;
+  margin-top: 4%;
+}
+
+.blo {
+  display: flex;
+  margin-top: 2%;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column
+}
+
+.text6 {
+  color: #000;
+
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+/*Полина*/
+.great {
+  display: flex;
+  flex-direction: column;
+}
+
+.zag {
+  display: flex;
+  padding-left: 221px;
+  font-size: 35px;
+}
+
+.textt1 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 221px;
+}
+
+.textt1>h2 {
+  display: flex;
+  font-size: 35px;
+}
+
+.textt1>p {
+  display: flex;
+  font-size: 35px;
+}
+
+.diplo {
+
+  padding-right: 50px;
+}
+
+.diplom {
+  display: flex;
+  margin: 30px;
+  padding-left: 200px;
+}
+
+footer {
+  background: #E0F6FF;
+}
+
+.guppi {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.kompani {
+  display: flex;
+  flex-direction: column;
+  font-size: 35px;
+  text-decoration: none;
+}
